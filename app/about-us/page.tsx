@@ -1,13 +1,14 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
-import { DirectorMessage } from "@/components/director-message";
+import { DirectorStory } from "@/components/director-story";
+import { Certifications } from "@/components/certifications";
 import { CommunityStory } from "@/components/community-story";
 import { about } from "@/lib/content";
 
 export const metadata: Metadata = {
   title: "About us",
-  description: "Discover the story, vision and mission behind Leo Leo Modern Farm, the meat shop and Kwanza Coffee.",
+  description: "Discover Leoleo’s story, meet founder Dady Kayombo and explore the company and Tanzania Meat Board registration documents.",
 };
 
 export default function AboutUsPage() {
@@ -15,12 +16,12 @@ export default function AboutUsPage() {
     <>
       <section className="shell about-hero">
         <div className="about-hero-copy">
-          <p className="small-rule">About Leo Leo</p>
+          <p className="small-rule">About Leoleo</p>
           <h1>One name. Three ways to grow.</h1>
           <p>Farming, food and coffee, connected by a shared ambition to build something lasting.</p>
         </div>
         <figure className="about-hero-photo">
-          <Image src="/images/field.jpg" alt="Chili fields at Leo Leo Modern Farm in Mwavi, Bagamoyo" fill priority sizes="(max-width: 700px) 100vw, 48vw" />
+          <Image src="/images/field.jpg" alt="Chili fields at Leoleo Modern Farm in Mwavi, Bagamoyo" fill priority sizes="(max-width: 700px) 100vw, 48vw" />
           <figcaption>Our roots in Mwavi, Bagamoyo</figcaption>
         </figure>
       </section>
@@ -41,10 +42,11 @@ export default function AboutUsPage() {
       </section>
 
       <CommunityStory />
-      <DirectorMessage />
+      <DirectorStory />
+      <Certifications />
 
       <section className="shell people-invitation">
-        <div><h2>Every story has people behind it.</h2><p>Meet the team that brings the Leo Leo projects to life.</p></div>
+        <div><h2>Every story has people behind it.</h2><p>Meet the team that brings the Leoleo projects to life.</p></div>
         <Link className="button button-dark" href="/team">Meet our team <span aria-hidden="true">↗</span></Link>
       </section>
     </>

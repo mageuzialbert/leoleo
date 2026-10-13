@@ -14,7 +14,7 @@ export function ContactForm() {
     const message = String(data.get("message") ?? "").trim();
     if (!name || !subject || !message) return;
 
-    const text = `Hello Leo Leo, my name is ${name}.\n\nI'm enquiring about: ${subject}.\n\n${message}`;
+    const text = `Hello Leoleo, my name is ${name}.\n\nI'm enquiring about: ${subject}.\n\n${message}`;
     window.location.assign(`https://wa.me/${whatsappNumber}?text=${encodeURIComponent(text)}`);
   }
 

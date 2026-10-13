@@ -33,7 +33,7 @@ The Instagram post shared on 8 February 2025 shows the CEO presenting to Mboni Y
 
 ## Remaining content gaps
 
-1. **Official display name:** the chat title says “Leo Leo Moden Farms,” the document says “LEOLEO MODERN FARM,” and the branded coats say “LEOLEO MODERN FARMS.” The user called it “Leoleo modern farm.” Use **Leo Leo Modern Farm** as the working site name.
+1. **Official display name:** the chat title says “Leo Leo Moden Farms,” the document says “LEOLEO MODERN FARM,” and the branded coats say “LEOLEO MODERN FARMS.” The user called it “Leoleo modern farm.” The user confirmed the display spelling **Leoleo** on 13 October 2026. Use **Leoleo Modern Farm** throughout the site.
 2. **Kwanza contact:** the user directly confirmed +255 722 000 419. The photographed Kwanza exterior sign shows +255 656 242 875, also the meat shop number. Publish the user's confirmed number and avoid the old sign photo until it is updated.
 3. **Kwanza Instagram:** the photographed exterior sign shows `@kwanzacoffee_goba`, while a chat reply suggests an account was being opened. Do not link it until confirmed.
 4. **Names and relationships:** the user calls these Leo Leo's three projects. Describe them that way without claiming a specific legal structure.
@@ -45,3 +45,7 @@ The Instagram post shared on 8 February 2025 shows the CEO presenting to Mboni Y
 - WhatsApp message at 14:42 on 12 October 2026 supplied the three contact blocks and locations above.
 - WhatsApp media gallery contained 32 photos. One was a bank-transfer image unrelated to the site and was not copied; the remaining 31 are in `research/whatsapp-photos/`.
 - The supplied Word file was `LEOLEO_MODERN_FARM_System_Requirements_and_Proposal_2.docx` (nine pages in the chat).
+
+## Director and company registrations update
+
+On 13 October 2026, the user confirmed the **Leoleo** spelling and requested the director story and certification from WhatsApp. The supplied biography identifies **Dady Kayombo**, Founder and Managing Director, with pig farming experience since 2010. A follow-up message names **Dady Nicholaus Kayombo** and **Faith Nicholaus Kayombo** as the two directors. The supplied BRELA certificate registers **Leoleo Modern Farm Limited** on **3 September 2024**. Three Tanzania Meat Board registrations cover livestock production, standard butchery and a slaughter slab, issued **23 January 2026**. These replace earlier gaps about the director's identity and company registration. See [document details and source record](director-and-certifications.md).

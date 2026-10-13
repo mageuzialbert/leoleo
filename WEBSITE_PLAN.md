@@ -1,15 +1,15 @@
-# Leo Leo website plan
+# Leoleo website plan
 
 ## Goal and scope
 
-Build an English-only, mobile-first public website in Next.js that introduces Leo Leo's three projects, shows real work and products through the supplied photography, and routes visitors to the right contact. Treat the farm management and ordering proposal as background research. The first release has no backend, live inventory, account portals, invoicing, SMS, ordering, or payments.
+Build an English-only, mobile-first public website in Next.js that introduces Leoleo's three projects, shows real work and products through the supplied photography, and routes visitors to the right contact. Treat the farm management and ordering proposal as background research. The first release has no backend, live inventory, account portals, invoicing, SMS, ordering, or payments.
 
 **Working audience:** people buying chili or pork, local visitors looking for Kwanza Coffee, and partners who want to understand the farm. **Primary action:** choose a project, then call or enquire using that project's verified contact.
 
 ## Content structure
 
-1. **Home:** one clear headline about the three projects; large Leo Leo field image; short introductions to Pig & Meat, Pili Pili, and Kwanza Coffee; a small story of the farm; contact strip.
-2. **Our farm:** Bagamoyo location, what the farm does, real team and working photos, concise business story after Leo Leo approves the wording.
+1. **Home:** one clear headline about the three projects; large Leoleo field image; short introductions to Pig & Meat, Pili Pili, and Kwanza Coffee; a small story of the farm; contact strip.
+2. **Our farm:** Bagamoyo location, what the farm does, real team and working photos, concise business story after Leoleo approves the wording.
 3. **Pig & Meat:** pig farming and the Goba meat shop, with the pig photo and confirmed product categories. Avoid displaying stock quantities or prices until supplied.
 4. **Pili Pili:** chili fields, planting and harvest imagery, what buyers can enquire about, farm contact.
 5. **Kwanza Coffee:** café photos, Goba location, contact, and later menu/hours once provided.
@@ -21,13 +21,13 @@ Navigation: Home / About us / Our team / Pig & Meat / Pili Pili / Kwanza Coffee 
 
 ## Visual direction
 
-The [Emwani Coffee reference](https://emwanicoffee.co.tz/) suggests a strong photo-led hero, a brand story, project or product sections, and clear contact navigation. Leo Leo should use its own people, fields, animals, café, and marks. The site should feel like a working Tanzanian farm with a coffee branch, not a coffee-roaster copy.
+The [Emwani Coffee reference](https://emwanicoffee.co.tz/) suggests a strong photo-led hero, a brand story, project or product sections, and clear contact navigation. Leoleo should use its own people, fields, animals, café, and marks. The site should feel like a working Tanzanian farm with a coffee branch, not a coffee-roaster copy.
 
 ### Draft design tokens
 
 | Role | Color | Reason |
 | --- | --- | --- |
-| Farm green | `#155B3D` | Existing Leo Leo coats and logo mark |
+| Farm green | `#155B3D` | Existing Leoleo coats and logo mark |
 | Deep leaf | `#12372B` | High-contrast text and footer |
 | Chili gold | `#E6A534` | Harvested orange chilies in supplied photos |
 | Coffee brown | `#5D3528` | Kwanza Coffee wall mark and coffee imagery |
@@ -57,7 +57,7 @@ Logo    Our Farm  Pig  Pili Pili  Coffee  Contact
 
 **Headline:** “Growing more than one story.”
 
-**Supporting line:** “Explore Leo Leo's pig farming, Pili Pili harvests, and Kwanza Coffee.”
+**Supporting line:** “Explore Leoleo's pig farming, Pili Pili harvests, and Kwanza Coffee.”
 
 **Project labels:** “Pig farming & meat shop” / “Pili Pili chili” / “Kwanza Coffee.”
 
@@ -73,4 +73,4 @@ These are draft navigation words, not factual claims about sourcing, quality gra
 
 ## Decisions needed before publishing
 
-Confirm the final display name, exact relationship among the three projects, current products and prices, café and shop hours, map pins, and the final brand wording. The user has supplied a logo and director portrait and requested the Team page. The new story, vision, mission and director's message are draft copy created at the user's request. The Kwanza number is **+255 722 000 419**; the photographed old sign carries a different number and is excluded.
+Confirm the final display name, exact relationship among the three projects, current products and prices, café and shop hours, map pins, and the final brand wording. The user has supplied a logo and director portrait and requested the Team page. Vision and mission remain authored copy. The director section now uses Dady Kayombo’s supplied WhatsApp biography, and the site displays company incorporation and Tanzania Meat Board registrations. The Kwanza number is **+255 722 000 419**; the photographed old sign carries a different number and is excluded.

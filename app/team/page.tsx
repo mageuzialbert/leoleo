@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
-import { teamStories } from "@/lib/content";
+import { director, teamStories } from "@/lib/content";
 
 export const metadata: Metadata = {
   title: "Our team",
-  description: "Meet the people and shared purpose behind the Leo Leo farm, meat shop and Kwanza Coffee projects.",
+  description: "Meet the people and shared purpose behind the Leoleo farm, meat shop and Kwanza Coffee projects.",
 };
 
 export default function TeamPage() {
@@ -16,9 +16,9 @@ export default function TeamPage() {
           <div className="team-hero-copy">
             <p className="small-rule">Our team</p>
             <h1>The people behind the progress.</h1>
-            <p>Three projects take many hands. The Leo Leo story grows through the people who show up, work together and care about what comes next.</p>
+            <p>Three projects take many hands. The Leoleo story grows through the people who show up, work together and care about what comes next.</p>
           </div>
-          <div className="team-hero-photo"><Image src="/images/farm-team.jpg" alt="Four Leo Leo farm team members wearing green work coats" fill priority sizes="(max-width: 700px) 100vw, 48vw" /></div>
+          <div className="team-hero-photo"><Image src="/images/farm-team.jpg" alt="Four Leoleo farm team members wearing green work coats" fill priority sizes="(max-width: 700px) 100vw, 48vw" /></div>
         </div>
       </section>
 
@@ -31,8 +31,8 @@ export default function TeamPage() {
 
       <section className="team-leadership">
         <div className="shell team-leadership-grid">
-          <div className="leadership-photo"><Image src="/images/director.png" alt="The Leo Leo Director at Kwanza Coffee" fill sizes="(max-width: 700px) 100vw, 30vw" /></div>
-          <div><p className="small-rule">Our shared direction</p><h2>Sharing knowledge. Growing opportunity.</h2><p>Our CEO’s presentation to Mboni Ya Vijana Group brought sustainable farming, agribusiness opportunities and modern cultivation into the conversation with young farmers.</p><div className="leadership-links"><Link className="text-link" href="/about-us#community">Read our community story <span aria-hidden="true">↗</span></Link><Link className="text-link" href="/about-us#director">A word from our Director <span aria-hidden="true">↗</span></Link></div></div>
+          <div className="leadership-photo"><Image src="/images/director.png" alt="Dady Kayombo, Leoleo’s Founder and Managing Director, at Kwanza Coffee" fill sizes="(max-width: 700px) 100vw, 30vw" /></div>
+          <div><p className="small-rule">Our leadership</p><h2>{director.name}</h2><p>{director.role}. A Tanzanian entrepreneur and agribusiness professional whose pig farming journey began in 2010. Dady founded the Dodoma Pig Farmers Association in 2020 and served as its chairman.</p><p>Leoleo’s directors are {director.fullName} and {director.fellowDirector}.</p><div className="leadership-links"><Link className="text-link" href="/about-us#director">Read Dady’s story <span aria-hidden="true">↗</span></Link><Link className="text-link" href="/about-us#certifications">Our registration documents <span aria-hidden="true">↗</span></Link></div></div>
         </div>
       </section>
     </>

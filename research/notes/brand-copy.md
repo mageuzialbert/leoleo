@@ -1,12 +1,12 @@
-# Draft Leo Leo brand copy
+# Draft Leoleo brand copy
 
-Written at the user's request to add relevant short stories, an About Us page, a Team page, a vision and mission, and a word from the Director. The story now includes the farm's self-reported 2024 starting year and a sourced community presentation. See [Instagram source notes](../instagram/source-notes.md). Vision, mission and the director's message remain authored draft copy, rather than recorded statements.
+Written at the user's request to add relevant short stories, an About Us page, a Team page, a vision and mission, and a word from the Director. The story now includes the farm's self-reported 2024 starting year and a sourced community presentation. See [Instagram source notes](../instagram/source-notes.md). Vision and mission remain authored draft copy. The director section now uses the biography supplied in WhatsApp; see [director and registration sources](director-and-certifications.md).
 
-The copy is maintained in `lib/content.ts`. The director's name and team members' individual names have not been supplied, so the site uses “The Director” and collective team stories.
+The copy is maintained in `lib/content.ts`. The director is now identified as Dady Kayombo, with Faith Nicholaus Kayombo also named as a company director. Team members' individual names remain unspecified.
 
 ## Story
 
-Our farming journey began in 2024. Today, Leo Leo brings together pig farming and Pili Pili in Mwavi, Bagamoyo, with Leo Leo Meat Shop and Kwanza Coffee in Goba. Each project gives us a different way to connect our work with everyday life.
+Leoleo Modern Farm Limited was incorporated in 2024. Today, Leoleo brings together pig farming and Pili Pili in Mwavi, Bagamoyo, with Leoleo Meat Shop and Kwanza Coffee in Goba. Each project gives us a different way to connect our work with everyday life.
 
 Produce for the kitchen, meat for shared meals and coffee for a moment together. Alongside these projects, sharing agricultural knowledge gives our story a wider purpose. We want to grow through good work, learning and opportunities that people can build on.
 
@@ -20,17 +20,15 @@ To develop our farming, meat and coffee projects with care, share practical agri
 
 ## Community story
 
-Leo Leo’s CEO delivered a presentation to Mboni Ya Vijana Group on sustainable farming, agribusiness opportunities and modern cultivation techniques.
+Leoleo’s CEO delivered a presentation to Mboni Ya Vijana Group on sustainable farming, agribusiness opportunities and modern cultivation techniques.
 
 The session highlighted the group’s focus on equipping young farmers through education, technology and practical training, with the aim of strengthening communities, creating employment and supporting future food security.
 
 Shared on Instagram on 8 February 2025. The date is the post's publication date.
 
-## Draft director's message
+## Director story
 
-For me, Leo Leo is a commitment to building something useful, one day at a time. Whether we are tending our fields, caring for our pigs or welcoming someone for coffee, every part of the work deserves our attention.
-
-I want our work to open opportunities for young people and make room for shared learning. Agriculture can help people build livelihoods and strengthen their communities. That is the future I want Leo Leo to support. Thank you for being part of this journey.
+The previous authored first-person message was replaced by Dady Kayombo's biography supplied at 12:26 on 13 October 2026 in the Leoleo WhatsApp chat. The public profile includes his education, pig farming journey since 2010, founding role in the Dodoma Pig Farmers Association, agricultural experience and supplied leadership vision. See [director and registration sources](director-and-certifications.md).
 
 ## Asset provenance
 

@@ -4,8 +4,8 @@ import { SiteFooter } from "@/components/site-footer";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: { default: "Leo Leo Modern Farm", template: "%s | Leo Leo Modern Farm" },
-  description: "Explore Leo Leo's pig farming and meat shop, Pili Pili chili project, and Kwanza Coffee in Tanzania.",
+  title: { default: "Leoleo Modern Farm", template: "%s | Leoleo Modern Farm" },
+  description: "Explore Leoleo's pig farming and meat shop, Pili Pili chili project, and Kwanza Coffee in Tanzania.",
   icons: { icon: "/images/leo-leo-logo.png", apple: "/images/leo-leo-logo.png" },
 };
 

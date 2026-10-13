@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { ContactForm } from "@/components/contact-form";
 import { contacts, whatsappHref } from "@/lib/content";
 
-export const metadata: Metadata = { title: "Contact", description: "Contact Leo Leo Modern Farm, Leo Leo Meat Shop and Kwanza Coffee in Tanzania." };
+export const metadata: Metadata = { title: "Contact", description: "Contact Leoleo Modern Farm, Leoleo Meat Shop and Kwanza Coffee in Tanzania." };
 
 export default function ContactPage() {
   return (
@@ -21,7 +21,7 @@ export default function ContactPage() {
       </section>
       <section className="contact-form-section">
         <div className="shell contact-form-grid">
-          <div className="contact-form-intro"><p className="small-rule">Send an enquiry</p><h2>Start with a message.</h2><p>Use this form to prepare a WhatsApp message for Leo Leo Modern Farm. For the meat shop or Kwanza Coffee, you can also call the location directly above.</p><a className="text-link" href={whatsappHref} target="_blank" rel="noopener noreferrer">Open a blank WhatsApp chat <span aria-hidden="true">↗</span></a></div>
+          <div className="contact-form-intro"><p className="small-rule">Send an enquiry</p><h2>Start with a message.</h2><p>Use this form to prepare a WhatsApp message for Leoleo Modern Farm. For the meat shop or Kwanza Coffee, you can also call the location directly above.</p><a className="text-link" href={whatsappHref} target="_blank" rel="noopener noreferrer">Open a blank WhatsApp chat <span aria-hidden="true">↗</span></a></div>
           <ContactForm />
         </div>
       </section>

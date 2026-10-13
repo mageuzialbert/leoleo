@@ -36,7 +36,7 @@ export default async function ProjectPage({ params }: Props) {
         </div>
       </section>
       <section className="shell project-body-grid">
-        <div><p className="small-rule">The Leo Leo projects</p><h2>{project.storyTitle}</h2></div>
+        <div><p className="small-rule">The Leoleo projects</p><h2>{project.storyTitle}</h2></div>
         <div><p>{project.body}</p><Link className="text-link" href="/contact">Send an enquiry <span aria-hidden="true">↗</span></Link></div>
       </section>
       <section className="shell detail-photo-section">
