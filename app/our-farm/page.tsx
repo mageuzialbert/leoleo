@@ -3,18 +3,18 @@ import Image from "next/image";
 import Link from "next/link";
 import { contacts } from "@/lib/content";
 
-export const metadata: Metadata = { title: "Our farm", description: "See the Leoleo farm in Mwavi, Bagamoyo and learn about its pig and Pili Pili projects." };
+export const metadata: Metadata = { title: "Our farm", description: "See the Leoleo farm in Bagamoyo, Coast Region and learn about its pig and Pili Pili projects." };
 
 export default function OurFarmPage() {
   return (
     <>
       <section className="page-hero farm-page-hero">
         <div className="shell page-hero-inner">
-          <p className="place-line">Leoleo Modern Farm · Mwavi, Bagamoyo</p>
+          <p className="place-line">Leoleo Modern Farm · Bagamoyo, Coast Region</p>
           <h1>A place where the work begins.</h1>
-          <p>Our farm in Mwavi is home to the pig and Pili Pili projects.</p>
+          <p>Our farm in Bagamoyo, Coast Region is home to the pig and Pili Pili projects.</p>
         </div>
-        <Image src="/images/field.jpg" alt="Cultivated fields at Leoleo Modern Farm in Mwavi" fill priority sizes="100vw" />
+        <Image src="/images/field.jpg" alt="Cultivated fields at Leoleo Modern Farm in Bagamoyo, Coast Region" fill priority sizes="100vw" />
       </section>
       <section className="shell farm-page-content">
         <div>
@@ -22,7 +22,7 @@ export default function OurFarmPage() {
           <h2>Farming in Bagamoyo</h2>
         </div>
         <div>
-          <p>Leoleo Modern Farm Limited was incorporated in 2024. Based in Mwavi in the Coast Region, Leoleo’s work brings together pig farming and habanero chili cultivation.</p>
+          <p>Leoleo Modern Farm Limited was incorporated in 2024. Based in Bagamoyo, Coast Region, Leoleo’s work brings together pig farming and habanero chili cultivation.</p>
           <p>Learning is part of that journey. Alongside the farm projects, our CEO has shared agricultural knowledge with young farmers through a presentation to Mboni Ya Vijana Group.</p>
           <Link className="text-link farm-community-link" href="/about-us#community">Read our community story <span aria-hidden="true">↗</span></Link>
           <Link className="text-link" href="/contact">Contact the farm <span aria-hidden="true">↗</span></Link>

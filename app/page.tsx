@@ -5,7 +5,7 @@ import { Certifications } from "@/components/certifications";
 import { contacts, projects, whatsappHref } from "@/lib/content";
 
 const projectDescriptions: Record<string, string> = {
-  "pig-and-meat": "Pig farming in Mwavi. Meat shop in Goba.",
+  "pig-and-meat": "Pig farming in Bagamoyo, Coast Region. Meat shop in Goba.",
   "pili-pili": "Habanero chilies, grown at our farm.",
   "kwanza-coffee": "Good coffee. A moment together in Goba.",
 };
@@ -25,7 +25,7 @@ export default function Home() {
   return (
     <div className="home-landing">
       <section className="farm-welcome" aria-labelledby="welcome-title">
-        <Image className="welcome-background" src="/images/field.jpg" alt="Chili fields at Leoleo Modern Farm in Mwavi, Bagamoyo" fill priority sizes="100vw" />
+        <Image className="welcome-background" src="/images/field.jpg" alt="Chili fields at Leoleo Modern Farm in Bagamoyo, Coast Region" fill priority sizes="100vw" />
         <div className="welcome-shade" />
         <div className="shell welcome-layout">
           <div className="welcome-copy">
@@ -56,11 +56,11 @@ export default function Home() {
         <div className="overview-story">
           <p className="small-rule">About Leoleo Modern Farm</p>
           <h2 id="overview-title">Growing together, from farm to everyday life.</h2>
-          <p>Leoleo was incorporated in 2024. Today, pig farming and habanero chili fields in Mwavi connect with our meat shop and Kwanza Coffee in Goba. Different projects, with a shared commitment to food, people and opportunity.</p>
+          <p>Leoleo was incorporated in 2024. Today, pig farming and habanero chili fields in Bagamoyo, Coast Region connect with our meat shop and Kwanza Coffee in Goba. Different projects, with a shared commitment to food, people and opportunity.</p>
           <Link className="button button-lime" href="/about-us">Get to know us <span aria-hidden="true">→</span></Link>
         </div>
         <div className="overview-values">
-          <div><FarmIcon kind="leaf" /><h3>Rooted in farming</h3><p>Mwavi, Bagamoyo</p></div>
+          <div><FarmIcon kind="leaf" /><h3>Rooted in farming</h3><p>Bagamoyo, Coast Region</p></div>
           <div><FarmIcon kind="heart" /><h3>Food for the table</h3><p>Our meat & chili projects</p></div>
           <div><FarmIcon kind="people" /><h3>Shared knowledge</h3><p>Learning with young farmers</p></div>
           <div><FarmIcon kind="cup" /><h3>Time for coffee</h3><p>Kwanza Coffee, Goba</p></div>

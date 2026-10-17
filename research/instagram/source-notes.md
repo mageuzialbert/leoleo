@@ -21,6 +21,6 @@ The profile display name is “LEO LEO MODERN FARMS” and the location is Bagam
 - Mboni Ya Vijana is described as the group addressed by Leo Leo's CEO. Its education and training work is attributed to the group; the site does not claim Leo Leo owns or operates that organisation.
 - The presentation supports a knowledge sharing story, but does not establish a formal partnership or an ongoing bookable training programme.
 - Historical harvest quantities, weekly harvest statements and product availability are not treated as current promises.
-- A historical harvest post mentions Fukayosi. The website retains the user's directly confirmed farm location of Mwavi, Bagamoyo.
+- A historical harvest post mentions Fukayosi. The website retains the user's directly confirmed farm location of Bagamoyo, Coast Region.
 - The director portrait came from the user. The subsequent WhatsApp biography names Dady Kayombo as Founder and Managing Director. The Instagram caption separately uses “CEO”; the community section retains the source wording.
 - Vision and mission remain authored drafts. The director section now uses the supplied WhatsApp biography and leadership vision; see [source record](../notes/director-and-certifications.md).

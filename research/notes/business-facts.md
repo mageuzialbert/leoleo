@@ -9,7 +9,7 @@ The [Instagram source notes](../instagram/source-notes.md) add the farm's self-r
 | Project | What the sources support | Public contact and location supplied in chat |
 | --- | --- | --- |
 | Pig project and Leo Leo Meat Shop | Pigs are raised at the farm. The proposal describes onward slaughter and sales of whole carcasses and pork cuts through a butchery. | Meat shop: Goba, Makongo Road; +255 656 242 875; Instagram `@leoleo_meat_shop`. |
-| Pili Pili / chili project | Habanero chili is grown at the farm, confirmed by the Instagram crop post. The proposal describes sales to traders, butcheries, hotels, restaurants, and individual buyers as possible customer types, but does not confirm current buyers or current stock. | Farm: Mwavi, Bagamoyo, Coast Region; +255 652 620 724; Instagram `@leoleo_modern_farms`. |
+| Pili Pili / chili project | Habanero chili is grown at the farm, confirmed by the Instagram crop post. The proposal describes sales to traders, butcheries, hotels, restaurants, and individual buyers as possible customer types, but does not confirm current buyers or current stock. | Farm: Bagamoyo, Coast Region; +255 652 620 724; Instagram `@leoleo_modern_farms`. |
 | Kwanza Coffee | A coffee shop shown by the supplied interior, exterior, and cup photos. The wall graphic says “From bean to cup”; the chat gives a contact. No menu, hours, sourcing details, or online ordering information was supplied. | Goba, Makongo Road, near Puma gas station; +255 722 000 419. |
 
 ## Useful details from the proposal

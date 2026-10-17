@@ -6,7 +6,7 @@ The copy is maintained in `lib/content.ts`. The director is now identified as Da
 
 ## Story
 
-Leoleo Modern Farm Limited was incorporated in 2024. Today, Leoleo brings together pig farming and Pili Pili in Mwavi, Bagamoyo, with Leoleo Meat Shop and Kwanza Coffee in Goba. Each project gives us a different way to connect our work with everyday life.
+Leoleo Modern Farm Limited was incorporated in 2024. Today, Leoleo brings together pig farming and Pili Pili in Bagamoyo, Coast Region, with Leoleo Meat Shop and Kwanza Coffee in Goba. Each project gives us a different way to connect our work with everyday life.
 
 Produce for the kitchen, meat for shared meals and coffee for a moment together. Alongside these projects, sharing agricultural knowledge gives our story a wider purpose. We want to grow through good work, learning and opportunities that people can build on.
 

@@ -21,8 +21,8 @@ export default function AboutUsPage() {
           <p>Farming, food and coffee, connected by a shared ambition to build something lasting.</p>
         </div>
         <figure className="about-hero-photo">
-          <Image src="/images/field.jpg" alt="Chili fields at Leoleo Modern Farm in Mwavi, Bagamoyo" fill priority sizes="(max-width: 700px) 100vw, 48vw" />
-          <figcaption>Our roots in Mwavi, Bagamoyo</figcaption>
+          <Image src="/images/field.jpg" alt="Chili fields at Leoleo Modern Farm in Bagamoyo, Coast Region" fill priority sizes="(max-width: 700px) 100vw, 48vw" />
+          <figcaption>Our roots in Bagamoyo, Coast Region</figcaption>
         </figure>
       </section>
 
